@@ -1,3 +1,4 @@
+#This is an program to implement linkedList in python
 class node:
     def __init__(self,data=None):
         self.data = data
