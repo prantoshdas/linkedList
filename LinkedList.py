@@ -31,8 +31,6 @@ class linkedList:
 
 
 llist=linkedList()
-# Node = node(1)
-# llist.head = Node
 llist.insert_front(7)
 llist.append(5)
 llist.append(9)
